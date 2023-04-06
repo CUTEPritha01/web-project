@@ -1,0 +1,106 @@
+#title{
+    background-color:#D27685;
+}
+h1{
+    font-family: 'Delicious Handrawn', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    /* font-family: 'Oswald', sans-serif; */
+font-size: 3.5rem;
+font-weight: 800;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h3{
+    /* font-family: 'Delicious Handrawn', cursive; */
+    font-family: 'Josefin Sans', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-family: 'Noto Sans JP', sans-serif; */
+}
+p{
+    color: #8f8f8f;
+}
+h2{
+     font-family: 'Changa One', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+
+/* navbar */
+.navbar-brand{
+    font-family: 'Changa One', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding:0 18px ;
+}
+.downlaodbtn{
+    margin: 5% 3% 5% 0;
+}
+.title-img{
+    width: 100%;
+    /* transform: rotate(30deg); */
+}
+/* .mid-item{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon-1,.icon-2,.icon-3{
+    color: rgb(0, 0, 0);
+    margin-bottom: 2rem;
+}
+.icon-1:hover{
+    color: rgb(223, 68, 161);
+    cursor: pointer;
+}
+.icon-2:hover{
+    color: rgb(0, 140, 255);
+    cursor: pointer;
+}
+.icon-3:hover{
+    color: rgb(0, 89, 255);
+}
+
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: pink;
+
+}
+.testimoials{
+    width: 20%;
+    border-radius: 100%;
+    margin: 5%;
+
+}
+#press{
+    background-color: pink;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.testimoials{
+    border: 2px solid white;
+}
